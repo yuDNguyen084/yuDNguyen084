@@ -33,13 +33,6 @@ Currently, I'm researching my graduation thesis focusing on cloud-based backend 
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuDNguyen084&show_icons=true&theme=radical" alt="Duy's GitHub Stats" />
-</div>
-
-<br/>
 
 ### Let's Connect!
 
